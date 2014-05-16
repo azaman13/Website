@@ -1,5 +1,0 @@
-Django==1.6.5
-argparse==1.2.1
-freeze==0.8.0
-six==1.6.1
-wsgiref==0.1.2
